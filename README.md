@@ -73,16 +73,6 @@
 
 ---
 
-## ✨ **Fun Zone**
-
-<div align="center">
-  <img src="https://media1.tenor.com/images/9a72a742a25078c66f123aa6f0967f67/tenor.gif?itemid=14489970" width="400" />
-</div>
-
-**"A day without code is like a day without sunshine!"**  
-
----
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShobhaBagle.ShobhaBagle" alt="Visitors Badge">
   <img src="https://img.shields.io/github/followers/ShobhaBagle?style=social" alt="GitHub Followers">
