@@ -1,79 +1,114 @@
-<h1 align="center">🌟 Shobha Bagle 🌟</h1>
-<h3 align="center">✨ Developer | Data Enthusiast | Tech Explorer ✨</h3>
+<div align="center">
+  <h1 style="color:#4CAF50; font-size: 3rem;">🌟 Python Portfolio: Shobha Bagle</h1>
+  <p style="font-size:1.2rem;">
+    Welcome to my <b>Python Portfolio</b>. A curated collection of projects demonstrating my expertise in 
+    Python programming, data analysis, and software development.
+  </p>
+  <img src="https://via.placeholder.com/800x300?text=Python+Portfolio" alt="Portfolio Banner" width="80%">
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
+---
+
+## 🚀 About Me
+
+<p style="font-size:1.1rem;">
+Hi, I'm <b>Shobha Bagle</b>, a passionate Python programmer and data analyst from Dahisar (W), Mumbai. 
+I'm currently advancing my skills through CS50 and other specialized courses in data science and web development.
+</p>
+
+---
+
+<h2 style="color:#4CAF50;">🛠️ Technologies and Tools</h2>
+
+<table style="width:100%; text-align:center;">
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td><b>Data Science Tools</b></td>
+    <td><b>Web Development</b></td>
+  </tr>
+  <tr>
+    <td>Python, JavaScript</td>
+    <td>NumPy, Pandas, Matplotlib</td>
+    <td>Flask, Django, React</td>
+  </tr>
+</table>
+
+---
+
+<h2 style="color:#4CAF50;">📂 Featured Projects</h2>
+
+### 📊 <b>Diwali Sales Analysis</b>
+<p>
+  Analyzed sales trends to derive business insights using <b>Python</b>. 
+  Demonstrates expertise in <b>Pandas, Matplotlib</b>, and <b>Seaborn</b>.
+</p>
+<a href="./projects/diwali-sales-analysis"><b>View Project</b></a>
+
+---
+
+### 🧠 <b>CS50 Problem Sets</b>
+<p>
+  A series of Python programming challenges showcasing problem-solving and logical skills.
+</p>
+<a href="./projects/cs50-problem-sets"><b>View Solutions</b></a>
+
+---
+
+### 📈 <b>IBM Data Analysis Project</b>
+<p>
+  Hands-on exploratory data analysis (EDA) project completed as part of IBM’s Codecademy course.
+</p>
+<a href="./projects/ibm-data-analysis"><b>Explore Project</b></a>
+
+---
+
+### 🌐 <b>MERN Stack Portfolio</b>
+<p>
+  A responsive portfolio website built using the <b>MERN Stack</b> (MongoDB, Express, React, Node.js).
+</p>
+<a href="#live-demo"><b>Live Demo (Coming Soon)</b></a>
+
+---
+
+<h2 style="color:#4CAF50;">📜 Achievements and Certifications</h2>
+
+<ul>
+  <li>Deloitte Virtual Internship (Forage)</li>
+  <li>Cisco, IBM, Kaggle, and Datacamp Certifications</li>
+  <li>Google Cloud Skill Badges</li>
+</ul>
+
+---
+
+<h2 style="color:#4CAF50;">🛠️ Repository Structure</h2>
+
+<pre>
+python-portfolio/
+├── projects/
+│   ├── diwali-sales-analysis/
+│   ├── cs50-problem-sets/
+│   ├── ibm-data-analysis/
+│   └── mern-portfolio/
+├── assets/
+├── LICENSE
+└── README.md
+</pre>
+
+---
+
+<h2 style="color:#4CAF50;">🤝 Let's Connect</h2>
+
+<p>
+  🌐 <b>Portfolio</b>: <a href="#">shobhapythonportfolio.com</a> (Coming Soon)<br>
+  💼 <b>LinkedIn</b>: <a href="https://linkedin.com/in/shobha-bagle">Shobha Bagle</a><br>
+  📧 <b>Email</b>: shobhabagle@example.com<br>
+  🐦 <b>Twitter</b>: <a href="https://twitter.com/ShobhaBagle">@ShobhaBagle</a><br>
+  🖥️ <b>GitHub</b>: <a href="https://github.com/ShobhaBagle">ShobhaBagle</a>
 </p>
 
 ---
 
 <div align="center">
-
-🌟 **"A passionate problem-solver crafting digital experiences and decoding data insights."** 🌟
-
-</div>
-
----
-
-## 🚀 **About Me**
-
-✨ Hi! I’m **Shobha Bagle**, a creative developer and data enthusiast based in **Mumbai, India 🇮🇳**. I’m passionate about **designing solutions** and **visualizing data** to bring insights to life.  
-
-- 🔭 Currently working on **Data Analysis and Web Development Projects**.  
-- 🌱 Learning **Machine Learning** and exploring **Data Science** tools.  
-- 💡 Always curious to explore **innovative technologies** and develop skills.  
-- 📫 Reach me at **[shobhabagle@gmail.com](mailto:shobhabagle@gmail.com)**.  
-- ⚡ Fun Fact: **"I see data the way an artist sees a blank canvas!"**  
-
----
-
-## 💡 **Skills & Tools**
-
-<div align="center">
-  
-#### 💻 **Languages**
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### 📊 **Data Science Tools**  
-![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%23CFE0E8.svg?style=for-the-badge&logoColor=black)
-
-</div>
-
----
-
-## 🎯 **Featured Projects**
-
-✨ **Diwali Sales Analysis**  
-🔍 *In-depth data analysis and visualization using NumPy, Pandas, Matplotlib, and Seaborn.*  
-🔗 [View Project](#)  
-
-✨ **Responsive Portfolio Website**  
-🎨 *An elegant, fully responsive portfolio using HTML, CSS, and Bootstrap.*  
-🔗 [View Project](#)  
-
----
-
-## 🌐 **Let's Connect**
-
-<div align="center">
-  <a href="https://linkedin.com/in/shobhabagle" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:shobhabagle@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShobhaBagle.ShobhaBagle" alt="Visitors Badge">
-  <img src="https://img.shields.io/github/followers/ShobhaBagle?style=social" alt="GitHub Followers">
+  <p>📜 Licensed under the <a href="./LICENSE">MIT License</a></p>
+  <p>⭐ Don't forget to <b>star</b> this repository if you found it useful!</p>
 </div>
